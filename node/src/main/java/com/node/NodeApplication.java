@@ -1,13 +1,13 @@
-package com.chat;
+package com.node;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ChatApplication {
+public class NodeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ChatApplication.class, args);
+        SpringApplication.run(NodeApplication.class, args);
     }
 
 }

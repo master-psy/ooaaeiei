@@ -1,10 +1,10 @@
-package com.chat;
+package com.master;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ChatApplicationTests {
+class MasterApplicationTests {
 
     @Test
     void contextLoads() {

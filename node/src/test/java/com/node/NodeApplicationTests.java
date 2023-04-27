@@ -1,10 +1,10 @@
-package com.dt.auto;
+package com.node;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AutoApplicationTests {
+class NodeApplicationTests {
 
     @Test
     void contextLoads() {
